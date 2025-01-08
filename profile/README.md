@@ -1,8 +1,19 @@
 ## Overview
 
-Tripela is a light, flexible automatic vehicle location (AVL) system.
+<p align="center">
+  <a href="http://tripela.net" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="docs/dyrectorio-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="docs/dyrectorio-light.png">
+      <img alt="Tripela Header" src="docs/header.jpg" width="400">
+    </picture>
+  </a>
+</p>
+
+#### Tripela is a light, flexible automatic vehicle location (AVL) system.
 
 It is designed to support the most common standards used in public transportation:
+
 - GTFS,
 - NeTEx,
 - TransXChange,
@@ -15,15 +26,16 @@ The solution was designed to be suitable for Bus Open Data Service (BODS) compli
 Tripela offers several advantages to different stake holders in public transportation.
 
 - **Public Transportation Authorities:**
-	- PTAs can gain better understanding about the performance of transport services.
-	- Information coming from an AVL, such as Tripela can be useful during the planning and policy making of public transportation.
-	- AVL capabilities can become useful in case of emergencies when real-time information is critical.
-	- Data coming from AVLs can be used to provide better communication with passengers.
+
+  - PTAs can gain better understanding about the performance of transport services.
+  - Information coming from an AVL, such as Tripela can be useful during the planning and policy making of public transportation.
+  - AVL capabilities can become useful in case of emergencies when real-time information is critical.
+  - Data coming from AVLs can be used to provide better communication with passengers.
 
 - **Public Transportation Operators:**
-    - PTOs can monitor their fleet in real time, allowing immediate adjustments to routes or schedules based on traffic conditions or vehicle issues.
-	- Drivers can get real-time information about traffic conditions and alternate routes, helping them navigate more effectively.
-	- Operators can inform passengers better about arrival times and digital displays.
+  - PTOs can monitor their fleet in real time, allowing immediate adjustments to routes or schedules based on traffic conditions or vehicle issues.
+  - Drivers can get real-time information about traffic conditions and alternate routes, helping them navigate more effectively.
+  - Operators can inform passengers better about arrival times and digital displays.
 
 ## Features
 
@@ -35,18 +47,20 @@ Behind the benefits listed above there are multiple features that Tripela provid
 - **Location Data:** Location data is at the core of Tripela. It's used to calculate expected arrival times.
 - **Standardized Color Scheme:** Green indicates on-time arrivals, while early is shown as red, and late arrivals appear with a yellow tone.
 
+## Demo
+
+<p align="center">
+
+[![Tripela Demo](https://img.youtube.com/vi/8E0t1BlEJ88/0.jpg)](https://www.youtube.com/watch?v=8E0t1BlEJ88)
+
+</p>
+
 ## Who We Are
 
-The application is developed by a team of software developers specialized in transportation.
-
-We're passionate about seeking problems in public transportation that can be solved with technology.
-
-We came up with the idea of Tripela to offer an accessible AVL solution to PTAs and PTOs.
+The application is developed by a team of software developers specialized in transportation. We're passionate about seeking problems in public transportation that can be solved with technology. We came up with the idea of Tripela to offer an accessible AVL solution to PTAs and PTOs.
 
 ## Contact Us
 
-You can find out more about the project at [tripela.net](tripela.net)
-
-Give our blog a look at [blog.tripela.net](blog.tripela.net)
-
-If you'd like to learn more about Tripela, reach out to us at [hola@tripela.net](mailto:hola@tripela.net)
+- You can find out more about the project at [tripela.net](tripela.net)
+- Give our blog a look at [blog.tripela.net](blog.tripela.net)
+- If you'd like to learn more about Tripela, reach out to us at [holapp[at]tripela.net](mailto:hola@tripela.net)
