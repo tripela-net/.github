@@ -5,7 +5,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/dyrectorio-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="docs/dyrectorio-light.png">
-      <img alt="Tripela Header" src="docs/header.jpg" width="400">
+      <img alt="Tripela Header" src="./../docs/header.jpg" width="400">
     </picture>
   </a>
 </p>
@@ -49,11 +49,7 @@ Behind the benefits listed above there are multiple features that Tripela provid
 
 ## Demo
 
-<p align="center">
-
-[![Tripela Demo](https://img.youtube.com/vi/8E0t1BlEJ88/0.jpg)](https://www.youtube.com/watch?v=8E0t1BlEJ88)
-
-</p>
+[![Tripela Demo](http://i.ytimg.com/vi/8E0t1BlEJ88/hqdefault.jpg)](https://www.youtube.com/watch?v=8E0t1BlEJ88)
 
 ## Who We Are
 
