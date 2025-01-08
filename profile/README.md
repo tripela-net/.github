@@ -1,14 +1,4 @@
-## Overview
-
-<p align="center">
-  <a href="http://tripela.net" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="docs/dyrectorio-dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="docs/dyrectorio-light.png">
-      <img alt="Tripela Header" src="./../header.jpg" width="500">
-    </picture>
-  </a>
-</p>
+![Tripela Header](./../header.jpg)
 
 #### Tripela is a light, flexible automatic vehicle location (AVL) system.
 
