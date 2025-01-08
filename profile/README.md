@@ -5,7 +5,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/dyrectorio-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="docs/dyrectorio-light.png">
-      <img alt="Tripela Header" src="./../docs/header.jpg" width="400">
+      <img alt="Tripela Header" src="./../header.jpg" width="500">
     </picture>
   </a>
 </p>
